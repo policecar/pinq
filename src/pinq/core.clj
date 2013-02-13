@@ -1,6 +1,6 @@
 (ns pinq.core)
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+(defn flip
+	"A Bernoulli random variable."
+	[p]
+	(if (< (rand) p) 1 0))
