@@ -1,12 +1,13 @@
-# pinq
+## pinq
 
-A Clojure library designed to ... well, that part is up to you.
+A playground for probabilistic programming. 
 
-## Usage
+### So far..
 
-FIXME
+.. there are a few discrete and continuous random primitives
 
-## License
+
+### License
 
 Copyright © 2013 FIXME
 
